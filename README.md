@@ -1,4 +1,18 @@
-# Menu principal
+# Recuerda ingresar el path correcto en:
+
+**gantt.py**
+
+![Captura de pantalla 2024-07-15 153121](https://github.com/user-attachments/assets/1f85fb00-9303-4735-a789-b64eb95a9762)
+
+![Captura de pantalla 2024-07-15 153154](https://github.com/user-attachments/assets/35348690-871a-4098-90eb-2e56d46f734d)
+
+**cpm.py**
+
+![Captura de pantalla 2024-07-15 153221](https://github.com/user-attachments/assets/744f198c-585b-49ba-a105-6eee3722dcbb)
+
+# Visualizacion de la interfaz
+
+## Menu principal
 
 ![Menu](https://github.com/user-attachments/assets/f9e3d3bd-aa33-4d5d-9a2e-d6a01a7ba2c7)
 
